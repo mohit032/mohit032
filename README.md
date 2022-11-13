@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mohit032
+- 👋 Hi, I’m Mohit Singh Rajput
 - 👀 I’m interested in Java, Frontend development, cloud & Linux based Technologies
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on Website Development
